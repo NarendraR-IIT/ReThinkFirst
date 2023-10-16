@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "firstName": "Alex",
+      "lastName": "Bla Bla",
+      "email": "alex.blalba@atto.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Otto",
+      "lastName": "Blubb",
+      "email": "otto.blubb@aot.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Peter",
+      "lastName": "Pan",
+      "email": "Peter.Pan@aot.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
